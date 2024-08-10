@@ -11,5 +11,5 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 ## Pre-prints
-1. [The Jacobian of a Sixth-Root-of-Unity Matroid](https://arxiv.org/abs/2308.11760)(With Matthew Baker and Changxin Ding). Submitted for publication. 
+1. [The Jacobian of a Sixth-Root-of-Unity Matroid](https://arxiv.org/abs/2308.11760) (with Matthew Baker and Changxin Ding). Submitted for publication. 
 
