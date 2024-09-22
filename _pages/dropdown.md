@@ -10,7 +10,5 @@ children:
   - title: divider
   - title: CV
     permalink: /CV/
-  - title: divider
-  - title: Some links
-    permalink: /Some links/
+
 ---
