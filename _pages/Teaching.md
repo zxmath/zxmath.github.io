@@ -6,12 +6,12 @@ description:
 nav: true
 nav_order: 6
 ---
-
-## 2023 Fall 
+## Teaching Assistant at UC Irvine
+### 2023 Fall 
 MATH 2B
-## 2023 Spring
+### 2023 Spring
 MATH 2B
-## 2023 Winter
+### 2023 Winter
 MATH 2D
-## 2024 Fall
+### 2024 Fall
 MATH 210- Real Analysis(Grad)

@@ -15,6 +15,7 @@ profile:
 
 ---
 
-I am a third year Ph. D. student in University of California, Irvine. My advisor is [Nathan Kaplan](https://www.math.uci.edu/~nckaplan/). Currently, my research is the interplay of coding theory and arithmetic geometry over finite fields. I am also interestied in arithmetic statistics and moments of L-functions. 
+I am a third year Ph.D. student in University of California, Irvine. My advisor is [Nathan Kaplan](https://www.math.uci.edu/~nckaplan/). Currently, my research is the interplay of coding theory and arithmetic geometry over finite fields. I am also interested in arithmetic statistics and moments of $L$-functions.
+Besides math, I like learning Data Science and thinking fun puzzles. 
 
 
